@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FZT1049ATA
+D Diodes Inc FZT1049ATA NPN Transistor, 5 A, 25 V, 3 + Tab-Pin SOT-223
+K
+F https://www.diodes.com/assets/Datasheets/FZT1049A.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FZT1049ATA")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/FZT1049ATA")(options "")(descr ""))
+  (lib (name "Tag-Connect")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/tag-connect/Tag-Connect.pretty")(options "")(descr ""))
+  (lib (name "USB4505-03-0-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/USB4505-03-0-A_REVA")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
